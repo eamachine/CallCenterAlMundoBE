@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cg.almundo.callcenter.model","l":"Call"},{"p":"cg.almundo.callcenter","l":"CallCenter"},{"p":"cg.almundo.callcenter","l":"CallCenterTest"},{"p":"cg.almundo.callcenter.model","l":"CallTest"},{"p":"cg.almundo.callcenter","l":"Dispatcher"},{"p":"cg.almundo.callcenter.model","l":"Employee"},{"p":"cg.almundo.callcenter.model","l":"EmployeeType"}]
